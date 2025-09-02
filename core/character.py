@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 from typing import Dict
-from ..data.classes import CharacterClass, CLASS_DATA
-from ..data.weapons import WEAPONS
+from data.classes import CharacterClass, CLASS_DATA
+from data.weapons import WEAPONS
 
 
 @dataclass
